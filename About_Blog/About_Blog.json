@@ -1,9 +1,9 @@
 {
     "title": "About Blog",
-    "intro": "关于网站",
-    "background_color": "#000000",
+    "intro": "烂文推荐所",
+    "background_color": "#E298D5",
     "font_color": "#ffffff",
-    "avatar_url": "https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif",
+    "avatar_url": "https://www.v1siuol.com/files/about_blog_avatar.png",
     "blog_url": "https://www.v1siuol.com/files/About_Blog.md",
-    "is_featured": false
+    "is_featured": true
 }

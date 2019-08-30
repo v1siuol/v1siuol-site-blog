@@ -6,8 +6,6 @@
 >
 > Last-Modified: 2019.08.02
 
-![][]
-
 ### Background 
 
 - Ubuntu 16.04
@@ -32,11 +30,11 @@ $ sudo dpkg-reconfigure tzdata
 
 Follow the directions in the terminal.
 
-![][]
+![geographic_area_in_tzdata_conf](https://www.v1siuol.com/files/geographic_area_in_tzdata_conf.png)
 
 Geographic area ==>  Aisa
 
-![][]
+![time_zone_in_tzdata_conf](https://www.v1siuol.com/files/time_zone_in_tzdata_conf.png)
 
 Time zone ==> one of (Chongqing, Hongkong, Macau, Taipei)
 
@@ -61,8 +59,6 @@ Now you are all set!
 
 
 Thank you. 
-
-
 
 
 
